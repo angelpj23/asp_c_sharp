@@ -1,0 +1,12 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseArray\ClaseArray\bin\Debug\ClaseArray.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseArray\ClaseArray\bin\Debug\ClaseArray.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseArray\ClaseArray\bin\Debug\ClaseArray.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseArray\ClaseArray\obj\Debug\ClaseArray.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\ClaseArray\ClaseArray\obj\Debug\ClaseArray.pdb
+C:\Users\123\Desktop\programacion\C-SHARP\ClaseArray\ClaseArray\bin\Debug\ClaseArray.exe.config
+C:\Users\123\Desktop\programacion\C-SHARP\ClaseArray\ClaseArray\bin\Debug\ClaseArray.exe
+C:\Users\123\Desktop\programacion\C-SHARP\ClaseArray\ClaseArray\bin\Debug\ClaseArray.pdb
+C:\Users\123\Desktop\programacion\C-SHARP\ClaseArray\ClaseArray\obj\Debug\ClaseArray.csprojAssemblyReference.cache
+C:\Users\123\Desktop\programacion\C-SHARP\ClaseArray\ClaseArray\obj\Debug\ClaseArray.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\programacion\C-SHARP\ClaseArray\ClaseArray\obj\Debug\ClaseArray.exe
+C:\Users\123\Desktop\programacion\C-SHARP\ClaseArray\ClaseArray\obj\Debug\ClaseArray.pdb

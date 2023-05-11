@@ -1,0 +1,5 @@
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Clases\Clases\bin\Debug\Clases.exe.config
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Clases\Clases\bin\Debug\Clases.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Clases\Clases\bin\Debug\Clases.pdb
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Clases\Clases\obj\Debug\Clases.exe
+c:\users\enrique.munguia\documents\visual studio 2015\Projects\Clases\Clases\obj\Debug\Clases.pdb

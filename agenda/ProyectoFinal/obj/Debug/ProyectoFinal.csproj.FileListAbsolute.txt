@@ -1,0 +1,13 @@
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\enrique.munguia\Documents\Visual Studio 2015\Projects\Curso\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\123\Desktop\programacion\C-SHARP\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\123\Desktop\programacion\C-SHARP\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\123\Desktop\programacion\C-SHARP\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\123\Desktop\programacion\C-SHARP\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\123\Desktop\programacion\C-SHARP\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\programacion\C-SHARP\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\123\Desktop\programacion\C-SHARP\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
